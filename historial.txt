@@ -1,0 +1,36 @@
+commit 92ab87bd2685c1b50d1415d22f25fab6ff957879
+Author: jaime.rojas <jaimerojasmanrique@gmail.com>
+Date:   Mon May 6 09:59:12 2024 +0200
+
+    pag2 actualizado
+
+commit d9db2418865310b34fa7dec645b711b40cc5c8fe
+Merge: 7d48b9c 97bb824
+Author: jaime.rojas <jaimerojasmanrique@gmail.com>
+Date:   Mon May 6 09:57:25 2024 +0200
+
+    Merge branch 'pruebas'
+
+commit 97bb8246a77fc4bac3d6ad198c6b64bdc6134001
+Author: jaime.rojas <jaimerojasmanrique@gmail.com>
+Date:   Mon May 6 09:54:39 2024 +0200
+
+    añadiendo p2
+
+commit 7d48b9c21a1e53c8179d35acf264d4efe1fa5686
+Author: jaime.rojas <jaimerojasmanrique@gmail.com>
+Date:   Mon May 6 09:52:40 2024 +0200
+
+    commit pag1
+
+commit 20b7d072983dfe83a3f762ecef72e71ae81442f0
+Author: jaime.rojas <jaimerojasmanrique@gmail.com>
+Date:   Mon May 6 09:31:42 2024 +0200
+
+    Commit con el index
+
+commit a00a2cb615eea756b27cb5e8d3238ad59d6ac410
+Author: jaime.rojas <jaimerojasmanrique@gmail.com>
+Date:   Mon May 6 09:28:34 2024 +0200
+
+    Primer commit
